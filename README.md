@@ -2,11 +2,9 @@
 
 **从课程职业能力要求出发，开发有引导问题、有实际活动、有成果记录、有系统理论知识的学习任务。**
 
-作者：蔡跃｜版本：v0.1.0｜整理日期：2026-11-03
+作者：蔡跃｜版本：v0.1.0｜发布日期：2026-11-03
 
-> 发布进度：技能源码与说明文件已经公开，可以通过仓库的 Code 菜单下载源码ZIP，并取出 skills/develop-vocational-learning-tasks 文件夹使用。独立技能安装包和两份Word示例尚待完成附件上传，正式下载版仍为草稿。
-
-[技能源码](skills/develop-vocational-learning-tasks/SKILL.md) · [使用说明](docs/usage.md) · [环境说明](docs/environment.md) · [完整示例](examples/lf09-comfort-safety/README.md) · [许可](LICENSE) · [引用方式](docs/citation.md)
+[下载纯技能包](downloads/develop-vocational-learning-tasks-v0.1.0.zip) · [使用说明](docs/usage.md) · [环境说明](docs/environment.md) · [完整示例](examples/lf09-comfort-safety/README.md) · [许可](LICENSE) · [引用方式](docs/citation.md)
 
 ![学习任务开发结构](docs/images/overview.svg)
 
@@ -46,7 +44,7 @@
 
 ## 快速开始
 
-1. 通过仓库 Code 菜单选择 Download ZIP，解压并找到 `skills/develop-vocational-learning-tasks` 文件夹；独立技能ZIP上传后将另行提供下载。
+1. 下载上方纯技能包，解压后应得到含 `SKILL.md` 的 `develop-vocational-learning-tasks` 文件夹。
 2. 在支持技能导入的 AI 客户端中导入该包，或按客户端要求放置完整技能文件夹。具体入口和路径以所用客户端为准。
 3. 说明专业、培养层次、课程、任务、学时、学生基础、设备和资料条件。
 4. 提交开发要求，先检查任务条件与目标，再检查学生稿和教师参考稿。
@@ -67,7 +65,7 @@
 
 ## 完整示例
 
-[学习领域9 舒适与安全系统服务](examples/lf09-comfort-safety/README.md)的学生工作活页和教师参考两份Word已经整理，附件上传尚未完成；当前先提供复现输入与成果导读。示例覆盖四个任务，建议合计60学时：
+[学习领域9 舒适与安全系统服务](examples/lf09-comfort-safety/README.md)包含作者提供的学生工作活页和教师参考两份Word文件，覆盖四个任务，建议合计60学时：
 
 | 任务 | 建议学时 |
 |---|---:|
@@ -91,7 +89,7 @@
 | `skills/develop-vocational-learning-tasks/` | 可安装技能源文件 |
 | `docs/` | 使用、环境、引用、许可及发布说明 |
 | `examples/lf09-comfort-safety/` | 完整示例、复现输入和成果导读 |
-| 独立技能ZIP | 已整理，待完成附件上传 |
+| `downloads/` | 可直接下载的纯技能ZIP |
 | `scripts/validate_release.py` | 发布材料及文件完整性检查 |
 
 本项目没有独立的聊天网页或服务端，不要求项目自身的API密钥。内容生成由所选AI环境完成。已做的检查与尚未验证的环境见[环境说明](docs/environment.md)。
