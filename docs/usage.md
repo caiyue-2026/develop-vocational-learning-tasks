@@ -1,5 +1,3 @@
-> 发布进度：技能源码与使用文档已可浏览。独立技能ZIP和两份Word示例暂待上传；当前可通过仓库的 Code 菜单下载源码ZIP，再取出 skills/develop-vocational-learning-tasks 文件夹使用。
-
 # 使用说明
 
 ## 准备与安装
