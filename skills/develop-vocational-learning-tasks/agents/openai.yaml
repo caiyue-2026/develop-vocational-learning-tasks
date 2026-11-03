@@ -1,0 +1,13 @@
+interface:
+  display_name: 职业教育学习任务开发技能
+  short_description: 开发以引导问题组织学习过程并配有系统理论知识的职业教育学习任务
+  default_prompt: 请使用 $develop-vocational-learning-tasks，为指定课程开发一个完整学习任务，生成学生工作活页、系统理论知识及教师参考材料。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
