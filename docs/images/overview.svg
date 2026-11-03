@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<rect width="1280" height="640" fill="#f6f8fc"/>
+<rect width="1280" height="12" fill="#1e3a8a"/>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,sans-serif">
+<text x="64" y="94" fill="#1e3a8a" font-size="44" font-weight="700">职业教育学习任务开发技能</text>
+<text x="66" y="138" fill="#475569" font-size="23">依据职业能力设计任务，以引导问题组织学习</text>
+<rect x="64" y="196" width="216" height="118" rx="14" fill="#1e3a8a"/>
+<text x="88" y="232" fill="#bbd7ff" font-size="17">01</text>
+<text x="172" y="279" text-anchor="middle" fill="#fff" font-size="28">获取信息</text>
+<rect x="298" y="196" width="216" height="118" rx="14" fill="#1e3a8a"/>
+<text x="322" y="232" fill="#bbd7ff" font-size="17">02</text>
+<text x="406" y="279" text-anchor="middle" fill="#fff" font-size="28">制定计划</text>
+<rect x="532" y="196" width="216" height="118" rx="14" fill="#1e3a8a"/>
+<text x="556" y="232" fill="#bbd7ff" font-size="17">03</text>
+<text x="640" y="279" text-anchor="middle" fill="#fff" font-size="28">任务实施</text>
+<rect x="766" y="196" width="216" height="118" rx="14" fill="#1e3a8a"/>
+<text x="790" y="232" fill="#bbd7ff" font-size="17">04</text>
+<text x="874" y="279" text-anchor="middle" fill="#fff" font-size="28">检查交付</text>
+<rect x="1000" y="196" width="216" height="118" rx="14" fill="#1e3a8a"/>
+<text x="1024" y="232" fill="#bbd7ff" font-size="17">05</text>
+<text x="1108" y="279" text-anchor="middle" fill="#fff" font-size="28">评价反思</text>
+<rect x="64" y="354" width="1152" height="98" rx="14" fill="#e8f3eb"/>
+<text x="88" y="395" fill="#276035" font-size="26">相关知识与技术资料</text>
+<text x="88" y="428" fill="#475569" font-size="21">系统解释概念、原理、方法与例题，支持学生理解和完成任务</text>
+<text x="64" y="512" fill="#1e3a8a" font-size="25">学生工作活页　＋　教师参考材料　＋　结构校核工具</text>
+<text x="64" y="577" fill="#64748b" font-size="19">蔡跃　｜　v0.1.0　｜　附学习领域9四任务完整示例</text>
+</g></svg>
