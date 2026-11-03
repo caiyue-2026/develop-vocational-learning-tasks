@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "如在教学、研究或教材开发中使用本项目，请引用实际采用的版本。"
+title: "职业教育学习任务开发技能"
+type: software
+authors:
+  - family-names: "蔡"
+    given-names: "跃"
+    affiliation: "同济大学职业技术教育学院"
+version: "0.1.0"
+date-released: "2026-11-03"
+repository-code: "https://github.com/caiyue-2026/develop-vocational-learning-tasks"
+url: "https://github.com/caiyue-2026/develop-vocational-learning-tasks"
+abstract: "依据职业能力与工作过程开发学习任务、学生工作活页、系统理论知识和教师参考材料的AI技能。"
+keywords:
+  - "职业教育"
+  - "学习任务"
+  - "活页式教材"
+  - "引导问题"
+  - "教学设计"
