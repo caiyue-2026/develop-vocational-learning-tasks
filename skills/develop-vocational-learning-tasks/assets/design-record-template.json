@@ -1,0 +1,117 @@
+{
+  "title": "替换为实际任务名称",
+  "sections": [
+    "学习情境",
+    "学习目标",
+    "任务要求",
+    "任务分工",
+    "获取信息",
+    "制定计划",
+    "任务实施",
+    "检查交付",
+    "评价反思",
+    "相关知识与技术资料"
+  ],
+  "objectives": [
+    {
+      "id": "O1",
+      "text": "替换为可观察目标"
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "stage": "获取信息",
+      "bloom": "理解",
+      "prompt": "替换为实际问题",
+      "activity": "替换为具体学生活动",
+      "evidence": "替换为成果记录",
+      "objective_ids": [
+        "O1"
+      ],
+      "knowledge_ids": [
+        "K1.1"
+      ]
+    },
+    {
+      "id": "Q02",
+      "stage": "制定计划",
+      "bloom": "分析",
+      "prompt": "替换为实际问题",
+      "activity": "替换为具体学生活动",
+      "evidence": "替换为成果记录",
+      "objective_ids": [
+        "O1"
+      ],
+      "knowledge_ids": [
+        "K1.1"
+      ]
+    },
+    {
+      "id": "Q03",
+      "stage": "任务实施",
+      "bloom": "应用",
+      "prompt": "替换为实际问题",
+      "activity": "替换为具体学生活动",
+      "evidence": "替换为成果记录",
+      "objective_ids": [
+        "O1"
+      ],
+      "knowledge_ids": [
+        "K1.1"
+      ]
+    },
+    {
+      "id": "Q04",
+      "stage": "检查交付",
+      "bloom": "评价",
+      "prompt": "替换为实际问题",
+      "activity": "替换为具体学生活动",
+      "evidence": "替换为成果记录",
+      "objective_ids": [
+        "O1"
+      ],
+      "knowledge_ids": [
+        "K1.1"
+      ]
+    }
+  ],
+  "knowledge_sections": [
+    {
+      "id": "K1.1",
+      "title": "替换为知识小节名称",
+      "body": "替换为完整理论正文",
+      "objective_ids": [
+        "O1"
+      ],
+      "source_ids": [
+        "S1"
+      ]
+    }
+  ],
+  "assessment": {
+    "max_score": 100,
+    "items": [
+      {
+        "id": "A1",
+        "criterion": "替换为评分标准",
+        "evidence": "替换为评价证据",
+        "points": 100,
+        "objective_ids": [
+          "O1"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "替换为来源名称",
+      "issuer": "替换为发布机构",
+      "locator": "替换为文件位置或URL",
+      "version_or_date": "替换为版本或日期",
+      "status": "待核实",
+      "scope": "替换为适用条件"
+    }
+  ]
+}
